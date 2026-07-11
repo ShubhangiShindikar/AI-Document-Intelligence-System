@@ -25,7 +25,7 @@ An AI-powered document analysis application that enables users to upload PDF doc
 - FAISS
 - Sentence Transformers
 - PyPDF2 / PDF Processing
-- Hugging Face Embeddings
+
 
 ---
 
