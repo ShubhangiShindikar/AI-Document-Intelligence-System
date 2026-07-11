@@ -2,7 +2,7 @@
 
 An AI-powered document analysis application that enables users to upload PDF documents, generate concise summaries, and ask natural language questions based on the document content using Retrieval-Augmented Generation (RAG).
 
----
+
 
 ## 🚀 Features
 
